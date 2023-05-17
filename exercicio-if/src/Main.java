@@ -16,7 +16,7 @@ public class Main {
         } else if (idade > 13 &&  idade < 18) {
             System.out.println("ADOLESCENTE");
         } else if (idade <= 13) {
-            System.out.println("CRIANÇAS");
+            System.out.println("CRIANÇA");
         } else {
             System.out.println("ADULTO");
         }
